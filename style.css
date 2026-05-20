@@ -10,7 +10,7 @@ nav .navbar{
     justify-content: space-between;
  
     background-color: #FFFFFF;
-    border: 1px salmon solid;
+
 }
 nav .logo{
     padding: 16px 0 16px 0px;
@@ -131,7 +131,7 @@ nav .menu ul li:hover{
 }
 .card-info{
     display: flex;
-    /* justify-content: space-between; */
+    
     gap: 24px;
     align-content: center;
    
@@ -150,8 +150,7 @@ nav .menu ul li:hover{
  background-color:#F95555;
  border-radius: 100%;
  padding: 4px;
- /* height: 60px;
- width: 60px; */
+ 
 }
 .card h4{
 font-size:24px ;
@@ -221,4 +220,40 @@ color: #627382;
     padding-bottom: 16px;
 
 }
+#ready{
+    max-width: 1600px;
+    padding-top: 120px;
 
+}
+.access{
+    max-width: 1360px;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+.access h2{
+    font-size:40px;
+    font-weight:700 ;
+    color:#001931 ;
+    padding-top:80px ;
+    padding-bottom:16px ;
+    line-height: 100%;
+
+}
+.access p{
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-bottom: 24px;
+}
+.access-footer p{
+padding-top: 16px;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+padding-bottom: 80px;
+color: #627382;
+
+}
