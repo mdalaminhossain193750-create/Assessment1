@@ -4,6 +4,13 @@
     max-width: 1600px;
     box-sizing: border-box;
 }
+/* google font */
+.google-font{
+    
+ 
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
 nav .navbar{
     display: flex;
     align-items: center;
